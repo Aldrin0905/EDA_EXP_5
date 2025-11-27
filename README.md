@@ -1,6 +1,8 @@
 # Experiment 5: COVID-19 Daily Cases Forecasting (Bivariate Analysis)
-### NAME : LEKASRI G
-### REGISTER NUMBER : 212223100025
+
+### NAME : ALDRIN S
+### REGISTER NUMBER : 212223240005
+
 ## AIM:
 
 To perform bivariate analysis on COVID-19 data and study the relationship between daily confirmed cases and daily deaths, using Linear Regression for prediction and simple real-time forecasting.
